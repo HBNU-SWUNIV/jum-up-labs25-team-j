@@ -1,23 +1,6 @@
 # Jump-up Labs
-# 국립한밭대학교 XXX학과 XXX팀
+# 국립한밭대학교 컴퓨터공학과 J팀
 
 **팀 구성**
-- 2019XXXX Name
-- 2020XXXX Name
-- 2019XXXX Name
-- 2020XXXX Name
-
-## Project Background
-- ABCD
-
-## System Model
-- ABCD
-
-## Numerical Results
-- ABCD
-
-## Conclusion
-- ABCD
-
-## Project Outcome
-- ABCD
+- 20201753 장재혁
+- 20211868 권정은
